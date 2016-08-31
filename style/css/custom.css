@@ -1,0 +1,377 @@
+/*custom css*/
+
+
+.index_intro
+{
+	color:black; font-size:23px; padding: 20px 20px 20px 30px; font-family: 'Lora', serif; font-weight:100; opacity:5%;
+}
+
+
+.mynav{
+	box-shadow:  0px -5px 100px 80px white;
+	background-color:white;
+	
+}
+
+.black{
+	color:white;
+}
+
+.bird-box{
+	position:relative;
+	height:100vh;
+	background-image: url("../../images/back.jpg");
+	background-position: top center;
+	background-attachment:fixed;
+	
+	
+}
+
+.bird{
+	height:300px;
+	width:400px;
+	position:absolute;
+	margin-top:100px;
+	background-image:url("../../images/bird.png");
+	z-index:3;
+	
+}
+
+.logo_p{
+	height:350px;
+	width:765px;
+	position:absolute;
+	background-repeat:no-repeat;
+	margin-top:100px;
+	background-image:url("../../images/logo.png");
+}
+
+.clouds{
+	position:absolute;
+	width:100%;
+	height:412px;
+	background-image:url("../../images/cloud_overlay.png");
+	margin-top:-300px;
+	margin-left:-16px;
+	
+}
+.index_img_style
+{
+	height:250px; width:100%;
+	border-radius:3%;
+}
+
+
+
+.serv_head
+{
+	width:100%;
+	text-align:center;
+	
+}
+
+.this3{
+	 transition: opacity 2s ease 0s; 
+}
+.this3.effo{
+	 opacity:0; 
+}
+
+
+.i{
+	transition: margin-left 2s ease 0s;
+	
+}
+
+.i.eff2{
+	margin-left:-150px;
+	
+}
+
+.service_info{
+	font-size:25px;
+	padding-left:30px;
+	padding-top:30px;
+	font-family: Serif;
+}
+
+.servv{
+	color:white;
+}
+
+
+.servv:hover{
+	color:black;
+}
+
+.service_head{
+	margin-left:auto;
+	margin-right:auto;
+	font-size:70px;
+	font-family: 'Dancing Script';
+	padding-left:30px;
+	padding-top:30px;
+}
+
+
+.carr{
+	margin-top:-30px;
+}
+.mybrand{
+	 font-family: 'Dancing Script', serif; font-size:40px; 
+	 color:white;
+}
+.mybrand:hover{
+	 font-family: 'Dancing Script', serif; font-size:40px; 
+	 color:white;
+}
+
+
+
+.about_body
+{
+	background-image:url("../../images/about_b.jpg");
+	
+	
+}
+
+.contact_body
+{
+
+}
+
+.fill {
+    
+  max-height: 500px;
+}
+
+.index_intro1
+{
+	color:white; font-size:25px; padding: 20px 20px 20px 30px; font-family: 'Lora', serif; font-weight:100; 
+}
+.index_intro2
+{
+	color:white; font-size:25px; padding: 20px 20px 20px 30px; font-family: 'Lora', serif; font-weight:100; 
+}
+.index_intro3
+{
+	color:white; font-size:25px; padding: 20px 20px 20px 30px; font-family: 'Lora', serif; font-weight:100; 
+}
+
+.load{
+	background-image: url("../../images/495.gif");
+	background-repeat:no-repeat;
+	background-position:center center;
+	background-origin: content-box;
+	
+}
+
+.navbar-fixed-top { background-color: rgba(0,0,0,0.5);transition: background-color 1s ease 0s;}
+.navbar-fixed-top.opaque { background-color: rgba(0,0,0,1);transition: background-color 1s ease 0s;}
+
+.dropdown-menu {background-color: rgba(0,0,0,0.7);transition: background-color 1s ease 0s;}
+
+.dropdown-menu > li > a:hover {
+    background-color:  rgba(0,0,0,0.5);
+    background-image: none;
+}
+
+#hovpls
+{
+	color:white;
+	
+}
+#hovpls:hover
+{
+	color:black;
+		
+}
+
+.share{
+	height:50px;
+	width:50px;
+}
+#size{
+	
+	height:100vh;
+	width:100%;
+	
+}
+
+#size_contact{
+	
+	height:100%; 
+	width:100%;
+}
+/* #3366ff */
+
+.add
+{
+	background-color: white;
+	color:#339900;
+	box-shadow:2px 2px 10px #336600;
+	border-radius:2%;
+	padding: 30px 30px 30px 30px;
+	font-family:Serif;
+}
+	
+ .navbar-toggle {
+    position: relative;
+    float: right;
+    padding: 9px 10px;
+    margin-top: 8px;
+    margin-right: 15px;
+    margin-bottom: 8px;
+    background-color: transparent;
+    background-image: none;
+    border: 1px solid white;
+    border-radius: 4px;
+}   
+
+.j_cont{
+		font-size:80px;
+	}
+	
+	.j_side{
+		font-size:50px;
+	}
+
+.pop:hover
+{
+	box-shadow:5px 5px 20px #595959;
+}
+.ches{
+		border-radius:0%; height:350px;width:350px; margin-right:auto;margin-left:auto;
+		
+	}
+#foot_main{
+	
+	color:white;
+	margin-top:250px;
+	
+	margin-right:auto;
+	margin-bottom:10px;
+	font-size:15px;
+	text-shadow:1px 1px 5px black;
+	align:
+}
+
+
+
+.fb_page{
+	height:230px;width:340px;border:none;overflow:hidden
+}
+
+.cen_name{
+	font-size:42px;
+}	
+.rest_add{
+	font-size:22px;
+}
+.cnt_img{
+	height:27px;width:27px;
+}
+
+.map{
+	width:100%;height:350px;padding-top:20px;overflow:hidden;
+}
+
+/* ================================= for mobile phones ============================*/
+/*	
+@media only screen and (max-width: 480px) {
+    .serv_head {
+        font-size:10px;
+    }
+	
+	.index_intro {
+		font-size:16px;
+	}
+	.index_intro1 {
+		margin-top:-75px;
+		font-size:16px;
+	}
+	.index_intro2 {
+		font-size:16px;
+	}
+	.index_intro3 {
+		font-size:16px;
+	}
+	
+	.index_img_style {
+		height:150px; width:100%;border-radius:3%;
+	}
+	
+	#size{	
+		height:0%; 
+		width:0%;
+	}
+	
+	.ches{
+		
+		margin-top:20px;
+		border-radius:0%; height:200px;width:200px; margin-right:auto;margin-left:30px;
+	}
+	
+	#size_contact{
+	
+	height:0%; 
+	width:0%;
+	}
+	
+	.j_cont{
+		font-size:40px;
+	}
+	
+	.j_side{
+		font-size:17px;
+	}
+		
+	.cen_name{
+	font-size:25px;
+	}	
+	.rest_add{
+		font-size:15px;
+	}
+	.cnt_img{
+		height:10px;width:10px;
+	}
+	
+	.map{
+	width:100%;height:200px;padding-top:20px;overflow:hidden;
+	}
+	
+	#small{
+		background-color: rgba(0,0,0,1);
+		box-shadow:none;
+	}
+	
+	.this{
+	 border-radius:1%; margin-left:0;
+	margin-top:-26px;
+	}
+	
+	.fb_page{
+	height:230px;width:260px;border:none;overflow:hidden;margin-top:10px;
+	}
+	
+	.service_info{
+	font-size:16px;
+	padding-left:10px;
+	padding-top:30px;
+	font-family: Serif;
+	}
+
+	.service_head{
+		margin-left:auto;
+		margin-right:auto;
+		font-size:30px;
+		font-family: 'Dancing Script';
+		padding-left:10px;
+		padding-top:30px;
+	}
+	
+	.carr{
+		margin-top:-10px;
+	}
+
+}	*/
